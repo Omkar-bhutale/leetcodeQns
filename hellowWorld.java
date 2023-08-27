@@ -3,6 +3,6 @@ public class hellowWorld{
         //hellow world program
         //this is seond comment
 
-        System.out.println("hi");
+        System.out.println("chtua hai tu");
     }
 }
